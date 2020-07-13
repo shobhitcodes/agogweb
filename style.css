@@ -270,6 +270,155 @@ div#preloader {
 .d-none {
 	display: none !important;
 }
+
+.brand-logo {
+	width: 50px;
+	height: 45px;
+	margin-right: 10px;
+}
+
+.flex-wrap {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/**Service section**/
+.service-section {background: #fff;   position: relative; overflow: hidden;}
+.image-block img{width:100%;}
+.white-text{    color: #fff !important;}
+.shape-bg2{ position: relative;}
+.shape-bg2:after {
+	content: '';
+    background: url(../img/shape/shape-2.svg);
+    background-size: auto;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    right: -70px;
+    bottom: -70px;
+    z-index: -1;}
+.shape-bg2:before {
+	content: '';
+    background: url(../img/shape/shape-1.svg);
+    background-size: auto;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    left: -40px;
+    bottom: -80px;
+    z-index: 0;}
+.service-section:before{
+	content: "";
+    background: url(../img/shape/dot-shape.png) #d7f0fd;
+    position: absolute;
+    height: 400px;
+    right: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-position: center top;
+    background-size: contain;
+    background-repeat: repeat;}
+.s-block{
+	background: #fff;
+    text-align: center;
+    background-size: 200%;
+    background-position: top right;
+    background-repeat: no-repeat;
+	text-align: center;
+    padding: 50px 20px;
+    margin:0;
+    position: relative;
+    border: 1px solid #d4f0ff;
+	-webkit-border-radius: 8px;
+    border-radius: 8px;
+	-webkit-box-shadow:
+	0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059),
+	0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071),
+	0 25px 40px -30px rgba(0, 0, 0, 0.2);
+	box-shadow:
+	0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059),
+	0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071),
+	0 25px 40px -30px rgba(0, 0, 0, 0.2);}
+.service-section .s-block{
+	background: url(../img/shape/shape-7.svg) #fff;
+    background-size: 180px;
+    background-position: top right;
+    background-repeat: no-repeat;}
+.s-card-icon {	width: 80px;    margin: 0 auto 30px;}
+.s-block h4 {	    margin: 0 0 10px 0;}
+.s-block a{	display: inline-block;    margin: 30px 0 0 0;    color: #050748;    font-family: 'Poppins', sans-serif;}
+.upset{position:relative;z-index:5}
+
+/**Service index2**/
+.service-2:before{background-color:#f9f9f9}
+.wide-block{
+	padding: 40px 30px;
+    margin: 5px 0;
+    position: relative;
+    border: 0px solid #d4f0ff;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);}
+.service-img1{     background:#e9ddff;	 }
+.service-img1:after{	    background: url(../images/service/service-img-1.png); }
+.service-img2{    background:#ffdadb;}
+.service-img2:after{    background: url(../images/service/service-img-2.png);}
+.service-img3{	background:#d6edff; }
+.service-img3:after{	background: url(../images/service/service-img-3.png);}
+.service-img4{	background:#ffede1;   }
+.service-img4:after{	background: url(../images/service/service-img-4.png);}
+.wide-block:after{
+	content:'';
+	position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+	 background-size: 280px;
+    background-position: right center;
+    background-repeat: no-repeat;}
+.block-space- {    max-width: 50%;    position: relative;    z-index: 555;}
+.wide-block h4{	    margin: 20px 0 30px 0;}
+.header-heading h1 span{   display: block;    font-weight: 100;    color: #ff2c8e;}
+
+.pad-tb {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.common-heading {
+    padding: 0;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
+.common-heading > span {
+    color: #e60072;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+    display: block;
+}
+
+html .mb30 {
+    margin-bottom: 30px;
+}
+
+html .mt30 {
+    margin-top: 30px;
+}
+
+.justify-content-center {
+	display: flex;
+	justify-content: center;
+}
 /*--------------------------------*/
 /*  2. Header top Area
 /*--------------------------------*/
@@ -351,6 +500,7 @@ div#preloader {
 	margin: 0;
 	font-weight: 700;
 	font-size: 18px;
+	color: #0c54ad;
 }
 .main-menu ul.navbar-nav li {
     float: left;

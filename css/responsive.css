@@ -3,13 +3,13 @@
 .intro-content {
     margin-top: -200px;
 }
-	
-	
+
+
 }
 
 /* Normal desktop :992px. */
-@media (min-width: 992px) and (max-width: 1269px) {	  
-    
+@media (min-width: 992px) and (max-width: 1269px) {
+
 .intro-content {
     margin-top: -100px;
 }
@@ -23,17 +23,17 @@
 .header-area-2 .header-right-link,
 .header-right-link {
     margin-left: 10px;
-}    
+}
 .single-service h3 {
     font-size: 25px;
     line-height: 36px;
-}    
+}
 .single-service {
     padding: 30px 20px;
-}    
+}
 .single-service p {
     font-size: 13px;
-} 
+}
 .cha-icon {
     margin-right: 15px;
     font-size: 36px;
@@ -54,23 +54,23 @@
 }
 .wel-content h4 {
     font-size: 17px;
-}    
+}
 .blog-content {
     padding: 30px 20px;
 }
 .right-side {
     padding-left: 20px;
-}        
+}
 .review-head h3 {
     font-size: 27px;
     line-height: 40px;
-}    
+}
 .achive-image {
     width: 40%;
-}    
+}
 .slide-all-text {
     margin-top: 30px;
-}    
+}
 .top-price-inner::after {
     border-top: 100px solid #0c54ad;
     border-left: 120px solid transparent;
@@ -78,8 +78,8 @@
     bottom: -40px;
 }
 
-    
-    
+
+
 }
 
 
@@ -114,7 +114,7 @@
     left: 40%;
     top: -30%;
 }
-.main-menu ul.navbar-nav li a, 
+.main-menu ul.navbar-nav li a,
 .header-area.stick .main-menu ul.navbar-nav li a {
     font-size: 15px;
     padding: 30px 7px;
@@ -127,25 +127,25 @@
 .header-area.stick .main-menu > ul.navbar-nav >li >a::before {
     left: 9px;
     bottom: 25px;
-}      
+}
 .footer1 .suscribe-input button{
     font-size: 14px;
     padding: 10px 5px;
     width: 46%;
-}    
+}
 .footer1 .suscribe-input input {
     width: 54%;
-} 
+}
 .footer-list {
     width: 100%;
     float: none;
 }
 .footer-list li a {
     font-size: 15px;
-}    
+}
 .topbar-left ul li a {
     margin-right: 10px;
-}    
+}
 .s-menu {
     padding: 10px 8px;
     font-size: 13px;
@@ -153,37 +153,37 @@
 .ready-btn {
     font-size: 16px;
     padding: 8px 14px;
-}       
+}
 .ab-btn {
     margin-top: 10px;
-}    
+}
 .single-service h3 {
     font-size: 28px;
-}    
+}
 .single-service p {
     font-size: 14px;
-}    
+}
 .cha-icon {
     display: none;
-}    
+}
 .cha-title {
     font-size: 18px;
     width: 100%;
-}    
+}
 .machine-text h3 {
     font-size: 22px;
     line-height: 32px;
-}    
+}
 .machine-text p {
     display: none;
-}    
+}
 .achive-number {
     font-size: 32px;
     line-height: 44px;
-}   
+}
 .single-achive {
     padding: 30px 10px;
-}    
+}
 .achivement-text h4 {
     font-size: 17px;
     line-height: 24px;
@@ -194,96 +194,96 @@
 .digital-content h4 {
     font-size: 15px;
     line-height: 24px;
-}   
+}
 .project-dec h4 {
     font-size: 20px;
-}    
+}
 .project-dec p {
     font-size: 15px;
-}    
+}
 .section-headline h3 {
     font-size: 32px;
     line-height: 40px;
-}    
+}
 .header-area-2 .header-right-link {
     margin-left: 30px;
-}    
+}
 .intro-area-2 .layer-1 h2 {
     font-size: 36px;
     line-height: 46px;
     max-width: 500px;
-}    
+}
 .intro-area-2 .layer-2 p {
     max-width: 430px;
     margin: 0px auto 10px;
-}    
+}
 .proses-text h4 {
     font-size: 18px;
-}    
+}
 .breadcrumb {
     padding: 200px 0px 150px;
-}    
+}
 .suscribe-input {
     width: 100%;
-}    
+}
 .footer-content.logo-footer {
     padding-right: 0px;
-} 
+}
 .page-head-left {
     margin-right: 0px;
-}    
+}
 .left-menu {
     padding: 20px 16px;
-}    
+}
 .down-btn {
     font-size: 15px;
-}   
+}
 .down-btn i {
     margin-right: 10px;
-}    
+}
 .single-page-head .clients-testi {
     padding: 30px 20px;
-}    
+}
 .single-page-head .review-text p {
     font-size: 14px;
-}    
+}
 .single-well h3 {
     font-size: 26px;
-}    
+}
 .single-well h4 {
     font-size: 22px;
-}    
+}
 .single-well.last-content {
     margin-top: 30px;
-}    
+}
 .project-details h3 {
     font-size: 23px;
-}    
+}
 .right-side {
     padding-left: 0px;
-}    
+}
 .blog-search-option input {
     width: 75%;
-}    
+}
 .recent-single-post .post-img {
     display: none;
-}    
+}
 .recent-single-post .pst-content {
     padding-left:0px;
-}    
+}
 .related-post-list .recent-single-post:last-child {
     padding: 0px 0px 0px 10px;
-}    
+}
 .related-post-list .recent-single-post {
     padding: 0px 10px 0px 0px;
-}    
+}
 .contact-icon {
     padding: 30px 10px 30px;
-}    
+}
 .single-icon p {
     font-size: 14px;
     line-height: 28px;
-}    
+}
 .about-text h3 {
     font-size: 24px;
     line-height: 34px;
@@ -294,13 +294,13 @@
 .review-head h3 {
     font-size: 24px;
     line-height: 32px;
-}   
+}
 .review-head p {
     font-size: 15px;
-}    
+}
 .slide-all-text {
     margin-top: 15px;
-}    
+}
 .intro-area-2 .intro-content {
     margin-top: -80px;
 }
@@ -317,7 +317,7 @@
     border-right: 90px solid transparent;
     bottom: -40px;
 }
-	
+
 }
 
 /* small mobile :320px. */
@@ -364,24 +364,24 @@
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 10px;
-}   
+}
 .footer-area {
     padding: 120px 0px 100px;
-}    
+}
 .suscribe-input {
     width: 100%;
-}    
+}
 .about-area {
     position: relative;
     background: #f9f9f9;
-}   
+}
 .about-text h3 {
     font-size: 24px;
     line-height: 35px;
-}    
+}
 .single-service {
     padding: 30px 15px;
-}    
+}
 .single-service h3 {
     font-size: 23px;
     line-height: 34px;
@@ -392,7 +392,7 @@
 .tab-menu ul.nav li {
     float: none;
     width: 100%;
-}    
+}
 .cha-title {
     width: 65%;
 }
@@ -402,21 +402,21 @@
 .machine-text h3 {
     font-size: 23px;
     line-height: 32px;
-}    
+}
 .section-headline h3 {
     font-size: 26px;
     line-height: 38px;
-}    
+}
 .section-headline p {
     font-size: 15px;
-}    
+}
 .single-achive {
     padding: 30px 15px;
-}    
+}
 .single-achive {
     padding: 30px 15px;
     margin-bottom: 30px;
-}    
+}
 .digital-services {
     width: 100%;
     float: none;
@@ -434,13 +434,13 @@
 }
 .we-services {
     margin-top: 30px;
-}    
+}
 .project-dec h4 {
     font-size: 19px;
-}    
+}
 .blog-content {
     padding: 30px 15px;
-}    
+}
 .achive-number {
     font-size: 34px;
     line-height: 44px;
@@ -450,62 +450,62 @@
 }
 .footer-content.logo-footer {
     padding-right: 0px;
-}    
+}
 .footer-content {
     margin-bottom: 40px;
-}    
+}
 .last-content{
     margin-bottom: 0px;
 }
 .blog-content a h4 {
     font-size: 19px;
-}    
+}
 .breadcrumb {
     background-color: transparent;
     margin-bottom: 0;
     padding: 200px 0px 150px;
-}    
+}
 .left-faq {
     padding-right: 0px;
-}       
+}
 .footer-content.logo-footer {
     padding-right: 0px;
-}    
+}
 .right-faq {
     padding-left: 0px;
-}    
+}
 .page-head-left {
     margin-right: 0px;
-}    
+}
 .single-well h3 {
     font-size: 24px;
-}   
+}
 .single-well h4 {
     font-size: 20px;
-}    
+}
 .single-well.last-content {
     margin-top: 30px;
-}    
+}
 .project-details h3 {
     font-size: 24px;
-}    
+}
 .right-side {
     padding-left: 0px;
     margin-top: 50px;
-}    
+}
 .blog-details .blog-content h4 {
     font-size: 18px;
     line-height: 30px;
-}    
+}
 blockquote {
     padding: 20px 15px 40px 50px;
 }
 blockquote::before {
     left: 8px;
-}    
+}
 .blog-details .blog-content h5 {
     font-size: 17px;
-}    
+}
 .related-post-list .recent-single-post {
     width: 100%;
     float: none;
@@ -517,33 +517,33 @@ blockquote::before {
 }
 .threaded-comments {
     margin-left: 15px;
-}    
+}
 .contact-icon {
     margin-bottom: 30px;
     padding: 30px 15px 30px;
-}    
+}
 .contact-images {
     margin: 50px 0px;
-}    
+}
 .intro-area-2 .intro-content {
     margin-top: -110px;
-}    
+}
 .about-content {
     margin-bottom: 40px;
-}    
+}
 .slide-all-text {
     margin-top: 0px;
-}    
+}
 .top-price-inner {
     padding: 30px 30px 30px;
-}    
+}
 .base {
     right: -50px;
     top: 25px;
-}    
-    
-    
-    
+}
+
+
+
 }
 
 /* Large Mobile :480px. */
@@ -551,17 +551,31 @@ blockquote::before {
 .container {width:450px}
 .single-icon p {
     font-size: 14px;
-}           
+}
 .banner-content {
     padding: 0px 20px;
-}    
-    
-    
-    
-    
-    
-    
-    
-    
 }
- 
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width:991px) {
+  .pad-tb {
+      padding-top: 80px;
+      padding-bottom: 80px;
+  }
+}
+
+@media only screen and (max-width:767px) {
+  .pad-tb {
+      padding-top: 60px;
+      padding-bottom: 60px;
+  }
+}
